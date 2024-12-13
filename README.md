@@ -2,7 +2,7 @@
 
 ## 🍬 Datasets
 
-In this work based on the OhioT1DM dataset and a real dataset.
+This work based on the OhioT1DM dataset and a real dataset.
 
 OhioT1DM data: http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html.
 
