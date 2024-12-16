@@ -2,11 +2,11 @@
 
 ## 🍬 Datasets
 
-This work based on the OhioT1DM dataset and a real dataset.
+This work based on the OhioT1DM dataset and a ChileT1DM dataset.
 
 OhioT1DM data: http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html.
 
-A real dataset: https://github.com/salangarica/Probabilistic_Glucose_Prediction
+ChileT1DM data: https://github.com/salangarica/Probabilistic_Glucose_Prediction
 
 ## 🛠️ Install
 
@@ -19,7 +19,5 @@ pip install -r requirements.txt
 ```
 
 ## 🕹️ Quickstart
-
-
 
 Code will be available once the paper is published.
