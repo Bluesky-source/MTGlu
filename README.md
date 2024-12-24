@@ -21,7 +21,7 @@ ChileT1DM data: https://github.com/salangarica/Probabilistic_Glucose_Prediction
 
 ## 🕹️ Quickstart
 
-### Proprocessing
+### 1.Proprocessing
 
 We need to process the OhioT1DM data into the following format.
 
@@ -30,6 +30,12 @@ We need to process the OhioT1DM data into the following format.
 | 2027-06-29 13:40:00 | 142.0 | 
 | 2027-06-29 13:45:00 | 136.0 | 
 
-### Train
+### 2.Train
+
+We use the architecture provided by Darts to train our model as well as the baseline model.
 
 Code will be available once the paper is published.
+
+## ❤️ References
+
+The code refers to the repo [Darts](https://github.com/unit8co/darts)
