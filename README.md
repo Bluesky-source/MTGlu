@@ -21,7 +21,7 @@ ChileT1DM data: https://github.com/salangarica/Probabilistic_Glucose_Prediction
 
 ## 🕹️ Quickstart
 
-### 1.Proprocessing
+### 1.Processing
 
 We need to process the OhioT1DM data into the following format.
 
